@@ -1,0 +1,56 @@
+@import url(https://fonts.googleapis.com/css?family=Bellefair);
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display);
+
+
+.sectionone {
+	background-color: #581845;
+	font-family: Roboto;
+	font-size: 10px;
+	color: white;
+	line-height: 90%;
+	padding: 50px;
+	border-radius: 25%;
+
+}
+
+.sectiontwo {
+	background-color: #900C3F;
+	font-family: Bellefair;
+	font-size: 15px;
+	color: black;
+	line-height: 100%;
+	padding: 40px;
+	border-radius: 40%;
+}
+
+.sectionthree {
+	background-color: #C70039;
+	font-family: Montserrat;
+	font-size: 20px;
+	color: gray;
+	line-height: 150%;
+	padding: 30px;
+	border-radius: 50%;
+}
+
+.sectionfour {
+	background-color: #FF5733;
+	font-family: Raleway;
+	font-size: 25px;
+	color: yellow;
+	line-height: 200%;
+	padding: 20px;
+	border-radius: 60%;
+}
+
+.sectionfive {
+	background-color: #FFC300;
+	font-family: Playfair Display;
+	font-size: 30px;
+	color: green;
+	line-height: 250%;
+	padding: 10px;
+	border-radius: 10%;
+}
